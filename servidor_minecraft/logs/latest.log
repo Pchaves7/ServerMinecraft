@@ -86,3 +86,7 @@
 [17:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PchavesMC has made the advancement [Isn't It Iron Pick]
 [17:48:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PchavesMC has made the advancement [Suit Up]
 [17:49:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PchavesMC was shot by Skeleton
+[17:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PchavesMC tried to swim in lava
+[17:55:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: PchavesMC lost connection: Disconnected
+[17:55:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PchavesMC left the game
+[17:56:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped PchavesMC

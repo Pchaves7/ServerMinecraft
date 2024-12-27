@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "c1dfe59a-36de-3de0-8861-844f2a78f42b",
+    "name": "PchavesMC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
