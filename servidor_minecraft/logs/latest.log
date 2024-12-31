@@ -2178,3 +2178,8 @@ Caused by: java.lang.IllegalArgumentException
 [19:13:16] [Server thread/INFO] [Waila]: Player EntityPlayerMP['PchavesMC'/203, l='world', x=802.56, y=72.00, z=246.13] connected. Sending ping
 [19:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: PchavesMC joined the game
 [19:14:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PchavesMC: Cleared the inventory of PchavesMC, removing 448 items]
+[19:21:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PchavesMC: Teleported PchavesMC to 0.5, 64.0, 0.5]
+[19:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PchavesMC: Set world border center to 0.5, 0.5]
+[19:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PchavesMC: Set world border to 5.0 blocks wide (from 60000000.0 blocks)]
+[19:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [PchavesMC: Set world border to 3072.0 blocks wide (from 5.0 blocks)]
+[19:27:40] [Server thread/INFO] [ancientwarfarestructure]: Generated structure: OrcRaidersGeneric at 204, 72, -125, time: 13ms
